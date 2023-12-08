@@ -121,7 +121,7 @@ export const Skill_data = [
     },
     {
       skill_name: "IntelliJ",
-      Image: "/intelij.png",
+      Image: "/IntelIj.png",
       width: 60,
       height: 60,
     },
